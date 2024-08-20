@@ -1,0 +1,14 @@
+train:
+  - C:/Users/SKTPJ12/Desktop/detect hornet.v2i.yolov8/train/images
+#  - C:/Users/SKTPJ12/Desktop/detect hornet.v7i.yolov8/test/images  # 작은 이미지 추가
+
+val:
+  - C:/Users/SKTPJ12/Desktop/detect hornet.v2i.yolov8/valid/images
+#  - C:/Users/SKTPJ12/Desktop/detect hornet.v7i.yolov8/test/images  # 작은 이미지 추가
+
+test:
+  - C:/Users/SKTPJ12/Desktop/detect hornet.v2i.yolov8/test/images
+#  - C:/Users/SKTPJ12/Desktop/detect hornet.v7i.yolov8/test/images  # 작은 이미지 추가
+
+nc: 2
+names: ['bee', 'hornet']

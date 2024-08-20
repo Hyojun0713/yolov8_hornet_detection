@@ -1,0 +1,11 @@
+names:
+- bee
+- hornet
+- bees
+nc: 3
+test:
+- C:/Users/SKTPJ12/Desktop/rotate_raw_640.v5i.yolov8/test/images
+train:
+- C:/Users/SKTPJ12/Desktop/rotate_raw_640.v5i.yolov8/train/images
+val:
+- C:/Users/SKTPJ12/Desktop/rotate_raw_640.v5i.yolov8/valid/images
